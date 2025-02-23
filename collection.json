@@ -1,0 +1,10 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://never-build.goettingen.xyz/collection.json",
+  "type": "Collection",
+  "label": {
+      "de": [
+        "Never Build Göttingen"
+      ]},
+  "items": []
+}

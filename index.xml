@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Never Build Göttingen</title>
+    <link>https://never-build.goettingen.xyz/collection.json</link>
+    <description>Recent content on Never Build Göttingen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>Christian Mahnke</copyright><atom:link href="https://never-build.goettingen.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://never-build.goettingen.xyz/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://never-build.goettingen.xyz/privacy/</guid>
+      <description>&lt;h2 id=&#34;hosting&#34;&gt;Hosting&lt;/h2&gt;
+&lt;p&gt;Der Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;IP-Adresse&lt;/li&gt;
+&lt;li&gt;Die Adresse der vorher besuchten Website (Referer [sic!] Anfrage-Header)&lt;/li&gt;
+&lt;li&gt;Datum und Uhrzeit der Anfrage&lt;/li&gt;
+&lt;li&gt;Zeitzonendifferenz zur Greenwich Mean Time&lt;/li&gt;
+&lt;li&gt;Inhalt der Anforderung&lt;/li&gt;
+&lt;li&gt;HTTP-Statuscode&lt;/li&gt;
+&lt;li&gt;Übertragene Datenmenge&lt;/li&gt;
+&lt;li&gt;Website, von der die Anforderung kommt&lt;/li&gt;
+&lt;li&gt;Informationen zu Browser und Betriebssystem&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Das ist erforderlich, um die Website anzuzeigen und die Stabilität und Sicherheit zu gewährleisten. Dies entspricht berechtigtem Interesse im Sinne des &lt;a href=&#34;https://dsgvo-gesetz.de/art-6-dsgvo/&#34; target=&#34;_blank&#34;&gt;Art. 6 Abs. 1 S. 1 lit. f DSGVO&lt;/a&gt;.&lt;/p&gt;</description>
+      </item>
+    
+    <item>
+      <title>Kartenansicht</title>
+      <link>https://never-build.goettingen.xyz/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://never-build.goettingen.xyz/map/</guid>
+      <description>&lt;p&gt;Auf dieser Seite werden die Einträge mit (rekonstruierten) Geo-Informationen auf eine Karte angezeigt.&lt;/p&gt;
+&lt;div class=&#34;map-wrapper&#34;&gt;
+  &lt;div class=&#34;map&#34; id=&#34;523ec4bfde1ed4e4c27a90cf21e9fb76&#34;&gt;&lt;/div&gt;
+  &lt;div id=&#34;523ec4bfde1ed4e4c27a90cf21e9fb76-popup&#34; class=&#34;ol-popup&#34;&gt;
+    &lt;a href=&#34;#&#34; id=&#34;523ec4bfde1ed4e4c27a90cf21e9fb76-popup-closer&#34; class=&#34;ol-popup-closer&#34;&gt;&lt;/a&gt;
+    &lt;div id=&#34;523ec4bfde1ed4e4c27a90cf21e9fb76-popup-content&#34;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+  var _523ec4bfde1ed4e4c27a90cf21e9fb76 = window.initMap(&#39;523ec4bfde1ed4e4c27a90cf21e9fb76&#39;, &#39;\/post\/map.geojson&#39;, &#39;osm&#39;, true , {src: &#39;/images/svgs/geomarker.svg&#39;, scale: 0.1, anchorXUnits: &#39;fraction&#39;, anchorYUnits: &#39;fraction&#39;, anchor: [0.9, 1]}  );
+  _523ec4bfde1ed4e4c27a90cf21e9fb76.updateSize();
+&lt;/script&gt;
+
+&lt;div class=&#34;download-link&#34;&gt;
+  
+    &lt;a class=&#34;link&#34; href=&#34;https://never-build.goettingen.xyz/map//post/map.geojson&#34; target=&#34;_blank&#34;&gt;Download GeoJSON&lt;/a&gt;
+  
+&lt;/div&gt;</description>
+      </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://never-build.goettingen.xyz/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://never-build.goettingen.xyz/links/</guid>
+      <description>&lt;h1 id=&#34;göttingen-allgemein&#34;&gt;Göttingen Allgemein&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://freies-verlagshaus.de/&#34; target=&#34;_blank&#34;&gt;Freies Verlagshaus&lt;/a&gt; von Michel Graver&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kulturmaps.de/&#34; target=&#34;_blank&#34;&gt;Kulturmaps Göttingen&lt;/a&gt; von Michel Graver&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://goest.de/&#34; target=&#34;_blank&#34;&gt;goettinger stadtinfo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;architektur-in-göttingen&#34;&gt;Architektur in Göttingen&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://freies-verlagshaus.de/architektur/&#34; target=&#34;_blank&#34;&gt;Architekturnotizen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      </item>
+    
+    <item>
+      <title>Über diese Seite</title>
+      <link>https://never-build.goettingen.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://never-build.goettingen.xyz/about/</guid>
+      <description>&lt;h1 id=&#34;kolophon&#34;&gt;Kolophon&lt;/h1&gt;
+&lt;p&gt;Diese Seite wurde mit &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; generiert.&lt;/p&gt;
+&lt;p&gt;Als Schriftarten kommen &lt;a href=&#34;https://github.com/hyvyys/Tektur&#34; target=&#34;_blank&#34;&gt;Tektur&lt;/a&gt; und  zum Einsatz.&lt;/p&gt;
+&lt;p&gt;Die folgenden JavaScript und CSS Frameworks werden benutzt:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jquery.com/&#34; target=&#34;_blank&#34;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://necolas.github.io/normalize.css/&#34; target=&#34;_blank&#34;&gt;normalize.css&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dollarshaveclub.github.io/stickybits/&#34; target=&#34;_blank&#34;&gt;Stickybits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/js-cookie/js-cookie&#34; target=&#34;_blank&#34;&gt;JS-Cookie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://threejs.org/&#34; target=&#34;_blank&#34;&gt;&lt;code&gt;three.js&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Die Nachbearbeitung der Digitalisate wurde mit &lt;a href=&#34;https://github.com/4lex4/scantailor-advanced&#34; target=&#34;_blank&#34;&gt;ScanTailor Advanced&lt;/a&gt; durchgeführt.&lt;/p&gt;
+&lt;p&gt;Für die Darstellung der Digitalisate von Einzelbildern wird &lt;a href=&#34;https://openlayers.org/&#34; target=&#34;_blank&#34;&gt;OpenLayers&lt;/a&gt; verwendet. Die jeweils angezeigten Ausschnitte wurden mit &lt;a href=&#34;https://libvips.github.io/libvips/&#34; target=&#34;_blank&#34;&gt;libvips&lt;/a&gt; erzeugt.&lt;/p&gt;
+&lt;p&gt;Die Seite wird von &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; gehosted.&lt;/p&gt;
+&lt;h1 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h1&gt;
+&lt;p&gt;&amp;ldquo;Never Build Göttingen&amp;rdquo; ist ein &lt;a href=&#34;https://projektemacher.org&#34; target=&#34;_blank&#34;&gt;Projekt&lt;/a&gt; von &lt;strong&gt;&lt;a href=&#34;https://christianmahnke.de/&#34; target=&#34;_blank&#34;&gt;Christian Mahnke&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Kontakt ist via &lt;a href=&#34;mailto:never-build@projektemacher.org&#34;&gt;E-Mail&lt;/a&gt; möglich.&lt;/p&gt;
+&lt;h1 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h1&gt;
+&lt;p&gt;Die Datenschutzerklärung ist &lt;a href=&#34;https://never-build.goettingen.xyz/privacy&#34;&gt;hier&lt;/a&gt; verfügbar.&lt;/p&gt;</description>
+      </item>
+    
+  </channel>
+</rss>

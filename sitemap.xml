@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://never-build.goettingen.xyz/books/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/privacy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/map/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/links/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/post/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://never-build.goettingen.xyz/about/</loc>
+    <lastmod>2025-02-23T10:36:42+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
